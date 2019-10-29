@@ -1,4 +1,5 @@
-// This is an ongoing project written by Arianne Rull
+// This is a finished project written by Arianne Rull
+// Under the code review of Alexa L.
 // For the purpose of teaching L'Amoreaux Computer Science Club about the syntax of Java
 
 import java.util.Scanner;
